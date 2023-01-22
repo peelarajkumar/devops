@@ -1,0 +1,44 @@
+BASIC COMMANDS FOR LINUX
+
+
+man - manually describes about the commands 
+man ls - describes about ls
+
+mkdir - creates a directory
+mkdir /home/rajkumar/1stlevel/2ndlevel
+cd - goes to imm prev directory
+
+rmdir -  removes directory
+
+pwd - print name of current directory
+
+cd - change directory
+
+su 'USERNAME' - Changes user
+
+sudo ---- sudo is used for operations in root level
+
+sudo bash -- goes to root
+
+useradd -- creates user
+passwd - password for the user
+groupadd 
+echo ---- its like print function
+whoami --- displays current user
+
+
+
+touch --- creates a file 
+   sudo touch cmd.txt
+
+   vi ---- virtual editor 
+sudo vi cmd.txt   - INSERT - ESC -wq write and quit
+
+cat ---- displays the file
+
+cp ---- copies the file
+mv --- moves the file
+rm --- removes the file
+
+
+
